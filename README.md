@@ -7,3 +7,6 @@ A new Flutter project.
 
 ## Membuat halaman list Populer Movie 
 ![Praktikum1](images/prak2.PNG)
+
+## Membuat halaman detail Populer Movie 
+![Praktikum1](images/prak3.gif)
